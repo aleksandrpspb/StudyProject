@@ -1,2 +1,2 @@
 # StudyProject
-Pathetic attempts to become GURU)))
+Epic attempts to become GURU)))
