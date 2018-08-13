@@ -1,3 +1,9 @@
 c:\users\popov_aa\documents\visual studio 2015\Projects\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe.config
 c:\users\popov_aa\documents\visual studio 2015\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.exe
 c:\users\popov_aa\documents\visual studio 2015\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.pdb
+c:\users\popov_aa\documents\visual studio 2015\Projects\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe
+c:\users\popov_aa\documents\visual studio 2015\Projects\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.pdb
+c:\users\popov_aa\documents\visual studio 2015\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\RunningAwayButtonWForms.csprojResolveAssemblyReference.cache
+c:\users\popov_aa\documents\visual studio 2015\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form1.resources
+c:\users\popov_aa\documents\visual studio 2015\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Properties.Resources.resources
+c:\users\popov_aa\documents\visual studio 2015\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\RunningAwayButtonWForms.csproj.GenerateResource.Cache
